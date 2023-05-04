@@ -7,4 +7,7 @@ Skills I have acquired:
 - Application of functional programming
 - Work with data streams, files and directories
 - Create template classes
+
 ![C# Advanced - September 2022 - Certificate](https://user-images.githubusercontent.com/106109182/198102720-d008f276-6035-428b-a735-ebef8ae2a4d0.jpeg)
+
+![image](https://user-images.githubusercontent.com/106109182/236234081-4a35b71e-1f59-4756-bcc8-fe457cdf8599.png)
