@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower of Hanoi", "Tower of Hanoi\Tower of Hanoi.csproj", "{809B860C-D9C7-4AF9-8631-3E6CE7C20C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{BB92CBFD-8E24-43D7-805B-0228D656D90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809B860C-D9C7-4AF9-8631-3E6CE7C20C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809B860C-D9C7-4AF9-8631-3E6CE7C20C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809B860C-D9C7-4AF9-8631-3E6CE7C20C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809B860C-D9C7-4AF9-8631-3E6CE7C20C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB92CBFD-8E24-43D7-805B-0228D656D90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB92CBFD-8E24-43D7-805B-0228D656D90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB92CBFD-8E24-43D7-805B-0228D656D90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB92CBFD-8E24-43D7-805B-0228D656D90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8C2327-20B9-48C4-979D-AF28CFC7118B}
+	EndGlobalSection
+EndGlobal
